@@ -1,15 +1,32 @@
+My hope is that a standard eventually emerges for rifling inserts to be more or less swappable across flywheel platforms to some degree (FlyCore, Gryphon, HyCon, etc.). It'll likely not be the dimensions outlined in this project, but hey, we have to start somewhere!
+
 # HyCon_muzzleinsert
 
-Variation of torukmakto4's HyCon cage with the addition of rifling inserts - BCAR, PCAR, smoothbore and possible further additions
+Variation of torukmakto4's HyCon cage with the addition of rifling inserts - BCAR, PCAR, smoothbore and possible further additions.
+
+<div style="display: flex; justify-content: center;">
+  <div style="margin-right: 10px;">
+    <img src="Images/muzzleandbcar1.jpg" height="200"/>
+    <p style="text-align: center;">Muzzle and BCAR insert</p>
+  </div>
+  <div style="margin-right: 10px;">
+    <img src="Images/muzzleandbcar2.jpg" height="200"/>
+    <p style="text-align: center;">Assembling...</p>
+  </div>
+  <div style="margin-right: 10px;">
+    <img src="Images/muzzleandbcar3.jpg" height="200"/>
+    <p style="text-align: center;">Assembled!</p>
+  </div>
+</div>
+
+While the inserts aren't necessary perfectly flushed against the flywheels, I believe them to be in close enough proximity.
 
 <div align="center">
   <img src="Images/flywheelproximity.png" width="400" />
-  <p>Description</p>
+  <p>Rough fit of insert/cage/dart body (represented by 30mm cylinder)</p>
 </div>
 
 Unfortunately I've only added an insert version for my QT-19 undercut cage, at some point I'll have to upload a version for the the conventional/main HyCon cage cover. Hopefully the dimensions that I've provided should make it easy enough to reuse my rifling inserts across different platforms though.
-
-My hope is that a standard eventually emerges for rifling inserts to be more or less swappable across flywheel platforms to some degree (FlyCore, Gryphon, HyCon, etc.). It'll likely not be the dimensions outlined here, but hey, we have to start somewhere!
 
 <div align="center">
   <img src="Images/insertundercutcage.png" width="400" />
@@ -37,15 +54,23 @@ Inserts to make...
     - String Centring and Rifling
     - Done to death in springer circles, surely there's merit in here
 
-## Dimensions
+## Muzzle dimensions
+The muzzle piece holding onto the inserts bolts onto the face of the HyCon cage using 4 M3 SHSC instead of the usual 3 - I had to change this in order to fit the insert. Fortunately the single SHSC was on the cover, not the cage, which likely means less cross compatibility clashes.
+
+<div align="center">
+  <img src="Images/muzzleconnectiondimensions.png" width="400" />
+  <p>Dimensions...</p>
+</div>
+
+## Insert dimensions
 <div align="center">
   <img src="Images/insertdimensions1.png" width="400" />
-  <p>Description</p>
+  <p>Dimensions...</p>
 </div>
 
 <div align="center">
   <img src="Images/insertdimensions2.png" width="400" />
-  <p>Description</p>
+  <p>Dimensions...</p>
 </div>
 
 <div align="center">
