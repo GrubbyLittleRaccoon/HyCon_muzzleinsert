@@ -3,7 +3,7 @@
 Variation of torukmakto4's HyCon cage with the addition of rifling inserts - BCAR, PCAR, smoothbore and possible further additions
 
 <div align="center">
-  <img src="images/flywheelproximity.png" width="400" />
+  <img src="Images/flywheelproximity.png" width="400" />
   <p>Description</p>
 </div>
 
@@ -12,7 +12,7 @@ Unfortunately I've only added an insert version for my QT-19 undercut cage, at s
 My hope is that a standard eventually emerges for rifling inserts to be more or less swappable across flywheel platforms to some degree (FlyCore, Gryphon, HyCon, etc.). It'll likely not be the dimensions outlined here, but hey, we have to start somewhere!
 
 <div align="center">
-  <img src="images/insertundercutcage.png" width="400" />
+  <img src="Images/insertundercutcage.png" width="400" />
   <p>Description</p>
 </div>
 
@@ -39,28 +39,28 @@ Inserts to make...
 
 ## Dimensions
 <div align="center">
-  <img src="images/insertdimensions1.png" width="400" />
+  <img src="Images/insertdimensions1.png" width="400" />
   <p>Description</p>
 </div>
 
 <div align="center">
-  <img src="images/insertdimensions2.png" width="400" />
+  <img src="Images/insertdimensions2.png" width="400" />
   <p>Description</p>
+</div>
+
+<div align="center">
+  <img src="Images/insertcomparison.png" width="400" />
+  <p>Size comparison of BCAR and insert template</p>
 </div>
 
 ## TODO: images to document better
 
 <div align="center">
-  <img src="images/insertcomparison.png" width="400" />
-  <p>Comparison of inserts</p>
-</div>
-
-<div align="center">
-  <img src="images/riflingmath.png" width="400" />
+  <img src="Images/riflingmath.png" width="400" />
   <p>Rifling math for Fusion</p>
 </div>
 
 <div align="center">
-  <img src="images/riflingoutcome.png" width="400" />
+  <img src="Images/riflingoutcome.png" width="400" />
   <p>First attempt at PCAR insert</p>
 </div>
